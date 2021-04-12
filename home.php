@@ -36,6 +36,7 @@ if(session_status() != 2) {
 
 
 ?>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Public Library</title>
